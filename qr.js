@@ -64,21 +64,21 @@ router.get('/', async (req, res) => {
 *By _ᴍᴀʟᴠɪɴ ᴋɪɴɢ⚪_*
 ______________________________
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐁𝐌𝐖 𝐗𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 ╭┄┄────────────◇
 ┋ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-┋❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@malvintech2_
-┋❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/263714757857_
-┋❍ 𝐑𝐞𝐩𝐨: _https://github.com/kingmalvn/BMW-XD_
-┋❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/IVVhfV9ULdW250HRqKpiNe_
-┋❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z_
-┋❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/@techlord01_
+┋❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@caseyrhodes01_
+┋❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254112192118_
+┋❍ 𝐑𝐞𝐩𝐨: _https://github.com/caseyweb/NHEZHO-MD_
+┋❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FuH0Uhfx7ZaDB4nlVFysts_
+┋❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E_
+┋❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/@caseyrhodes01_
 ┋ ☬ ☬ ☬ ☬
 ╰┄┄┄┄┅┅┅┅┅┅┄┄┄┄┄┄┄┄┄┄┄ 
-    🚘 𝐁𝐌𝐖 𝐗𝐃 🚘
+   👻𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒👻
 ______________________________
 
 _Don't Forget To Give Star⭐ To My Repo_`
